@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas Haruna Abubakar</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Frontend developer from Nigeria, passionate about creating intuitive, responsive, and user-friendly web experiences. I build clean, scalable interfaces using modern web technologies and constantly explore new ways to solve real-world problems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbas-abubakar" alt="abbas-abubakar" /></a> </p>
 
