@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abbas Haruna Abubakar</h1>
 <h3 align="center">Frontend developer from Nigeria, passionate about creating intuitive, responsive, and user-friendly web experiences. I build clean, scalable interfaces using modern web technologies and constantly explore new ways to solve real-world problems.</h3>
 
-- 🔭 I’m currently working on [BorrowXchange – A peer-to-peer rental platform](borrowxchange.com)
-
 - 🌱 I’m currently learning **Data Analysis, TypeScript, and Advanced React Patterns**
 
 - 👯 I’m looking to collaborate on **Open-source frontend & backend projects,**
