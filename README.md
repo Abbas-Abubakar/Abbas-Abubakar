@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source frontend & backend projects,**
 
-- 👨‍💻 All of my projects are available at [abbas-abubakar.github.io](abbas-abubakar.github.io)
+- 👨‍💻 All of my projects are available at [abbasabubakar.vercel.app](abbasabubakar.vercel.app)
 
 - 📫 How to reach me **abbasabubakar05@gmail.com**
 
